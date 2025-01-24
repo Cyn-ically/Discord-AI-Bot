@@ -1,0 +1,8 @@
+{
+    "_comment_": "Watermark is if you want to support my creation ! but is not required",
+
+    "bot_token": "PUT_YOUR_BOT_TOKEN_HERE",
+    "watermark_enabled": true,
+    "personality_enabled": true
+
+}
