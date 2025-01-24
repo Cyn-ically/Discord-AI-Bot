@@ -78,7 +78,7 @@ async def ask_command(interaction: discord.Interaction, model: app_commands.Choi
     if PERSONALITY_ENABLED and personality:
         query = f"Act as: {personality} and respond to the question in the language of the query.\n\n{query}"
 
-    query = "\n\nDo not use any insult in the output, now respond to this question. : "  +query 
+    query = "\n\nDo not use any insult in the output, now respond to this question with the language used in the question. : "  +query 
 
     try:
         response = duckduckai_ask(query, model=model.value, stream=False)
