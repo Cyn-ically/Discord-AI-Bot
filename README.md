@@ -1,6 +1,6 @@
 # Discord AI Bot
 
-- A versatile Discord bot powered by AI models like Mixtral, Meta-Llama, Claude-3, and GPT-4. This bot allows users to interact with various AI models through a simple /ask command, with optional personality customization.
+- A versatile Discord bot powered by AI models like Mixtral, Meta-Llama, Claude-3, and GPT-4. This bot allows users to interact with various AI models through a simple /ask command, with optional personality customization. All for free
 
 # 🛠️ Setup Instructions
 Clone the Repository:
