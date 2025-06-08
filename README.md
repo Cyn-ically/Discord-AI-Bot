@@ -6,7 +6,7 @@
 Clone the Repository:
 
 ```
-git clone https://github.com/Ramona-Flower/Discord-AI-Bot.git
+git clone https://github.com/cyn-ically/Discord-AI-Bot.git
 cd Discord-AI-Bot
 ```
 
